@@ -1,7 +1,3 @@
-Here's the adjusted content formatted for Markdown, which includes proper headings, code blocks, and lists. This format is suitable for a GitHub README file.
-
----
-
 # CreatureLib
 
 ## Overview
